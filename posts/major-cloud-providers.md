@@ -6,6 +6,7 @@ description: Developer resources you should know to become a better programmer. 
 tags: 'productivity, beginners, test'
 cover_image: ./assets/fabio-oyXis2kALVg-unsplash.jpg
 canonical_url: null
+id: 1055788
 ---
 
 ## Major Cloud Providers
