@@ -1,11 +1,12 @@
 ---
-title: APIs, Data and MachineLearning Collection
+title: 'APIs, Data and MachineLearning Collection'
 series: Developer Resources You Should Know
 published: false
 description: Developer resources you should know to become a better programmer. You can contribute to this collection by adding your own articles.
 tags: 'productivity, beginners, test'
 cover_image: ./assets/fabio-oyXis2kALVg-unsplash.jpg
 canonical_url: null
+id: 1055792
 ---
 
 ## APIs, Data and MachineLearning
