@@ -6,6 +6,7 @@ description: Developer resources you should know to become a better programmer. 
 tags: 'productivity, beginners, test'
 cover_image: ./assets/cat.jpg
 canonical_url: null
+id: 1055787
 ---
 
 ## Wlcome
