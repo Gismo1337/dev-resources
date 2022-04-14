@@ -1,6 +1,6 @@
 ---
 title: Major Cloud Providers Collection
-series: "Developer Resources You Should Know"
+series: Developer Resources You Should Know
 published: false
 description: Developer resources you should know to become a better programmer. You can contribute to this collection by adding your own articles.
 tags: 'productivity, beginners, test'
